@@ -1,0 +1,200 @@
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.pdb
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.pdb
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csprojAssemblyReference.cache
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CopyComplete
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.pdb
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll.CodeAnalysisLog.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll.lastcodeanalysissucceeded
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.pdb
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.pdb
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll.config
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.xml
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csprojAssemblyReference.cache
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CopyComplete
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.dll
+D:\CI_Dotnet\March\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.pdb
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csprojAssemblyReference.cache
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.pdb
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.pdb
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.pdb
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CopyComplete
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.pdb
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\WebDriver.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\WebDriver.Support.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.pdb
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\CalculatorApp.dll.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Helpers.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Mvc.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.Razor.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\WebDriver.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\WebDriver.Support.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.abstractions.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.assert.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.core.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csprojAssemblyReference.cache
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CopyComplete
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.pdb
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\CalculatorApp.Tests.pdb
+D:\New folder 3\CalculatorApp.Tests\bin\Release\CalculatorApp.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Helpers.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Mvc.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Razor.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\WebDriver.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\WebDriver.Support.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.abstractions.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.assert.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.core.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.dll
+D:\New folder 3\CalculatorApp.Tests\bin\Release\CalculatorApp.pdb
+D:\New folder 3\CalculatorApp.Tests\bin\Release\CalculatorApp.dll.config
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Helpers.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Mvc.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.Razor.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\System.Web.WebPages.Razor.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\WebDriver.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\WebDriver.Support.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.abstractions.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.assert.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.core.xml
+D:\New folder 3\CalculatorApp.Tests\bin\Release\xunit.execution.desktop.xml
+D:\New folder 3\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csprojAssemblyReference.cache
+D:\New folder 3\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+D:\New folder 3\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.csproj.CopyComplete
+D:\New folder 3\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.dll
+D:\New folder 3\CalculatorApp.Tests\obj\Release\CalculatorApp.Tests.pdb

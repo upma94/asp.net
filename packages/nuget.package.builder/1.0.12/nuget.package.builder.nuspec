@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NuGet.Package.Builder</id>
+    <version>1.0.12</version>
+    <title>NuGet Package Builder Tool</title>
+    <authors>Lars Skovslund/Richard Carruthers</authors>
+    <owners>Lars Skovslund/Richard Carruthers</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>true</developmentDependency>
+    <licenseUrl>https://raw.githubusercontent.com/LarsSkovslund/NuGet.Package.Builder/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/LarsSkovslund/NuGet.Package.Builder</projectUrl>
+    <description>Seamlessly extends any (.csproj, .vbproj, .fsproj) project to produce a NuGet package (.nupkg) and symbols at compile time. Supports publishing of packages when project is build or through MSBuild properties.</description>
+    <releaseNotes>See change log at https://raw.githubusercontent.com/LarsSkovslund/NuGet.Package.Builder/master/Changelog.md</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>NuGet Package MSBuild Automation</tags>
+  </metadata>
+</package>

@@ -1,0 +1,1 @@
+﻿$FileList=Get-ChildItem -Path $env:TF_BUILD_SOURCESDIRECTORY -Filter publish*.cmd | foreach {& $_.FullName}

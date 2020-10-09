@@ -1,0 +1,331 @@
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csc.rsp
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\csi.rsp
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.AppContext.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Console.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.Process.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Pipes.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.AccessControl.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Claims.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Threading.Thread.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\vbc.rsp
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.CodeAnalysisLog.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.lastcodeanalysissucceeded
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Razor.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.abstractions.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.assert.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.core.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.Razor.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.abstractions.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.assert.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.core.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CopyComplete
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.dll
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
+D:\CI_Dotnet\Repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csc.rsp
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\csi.rsp
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.AppContext.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Console.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.Process.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Pipes.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.AccessControl.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Claims.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Threading.Thread.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\vbc.rsp
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.CodeAnalysisLog.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.lastcodeanalysissucceeded
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Razor.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.abstractions.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.assert.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.core.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.Razor.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.abstractions.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.assert.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.core.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CopyComplete
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.dll
+D:\MyFirstAzure\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csc.exe.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csc.rsp
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csi.exe.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\csi.rsp
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.AppContext.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Console.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\vbc.exe.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\vbc.rsp
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.CodeAnalysisLog.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.lastcodeanalysissucceeded
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Razor.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\WebDriver.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\WebDriver.Support.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.abstractions.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.assert.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.core.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Helpers.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Mvc.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.Razor.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\WebDriver.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\WebDriver.Support.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.abstractions.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.assert.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.core.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\xunit.execution.desktop.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CopyComplete
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.dll
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
+C:\Users\sankarshan.m\Source\Repos\MyFirstAzureProject3\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache
+D:\New folder 3\CalculatorApp\bin\CalculatorApp.dll.config
+D:\New folder 3\CalculatorApp\bin\CalculatorApp.dll
+D:\New folder 3\CalculatorApp\bin\CalculatorApp.pdb
+D:\New folder 3\CalculatorApp\bin\roslyn\csc.exe
+D:\New folder 3\CalculatorApp\bin\roslyn\csc.exe.config
+D:\New folder 3\CalculatorApp\bin\roslyn\csc.rsp
+D:\New folder 3\CalculatorApp\bin\roslyn\csi.exe
+D:\New folder 3\CalculatorApp\bin\roslyn\csi.exe.config
+D:\New folder 3\CalculatorApp\bin\roslyn\csi.rsp
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder 3\CalculatorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.AppContext.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Console.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Diagnostics.Process.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.IO.Compression.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.IO.Pipes.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.AccessControl.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Claims.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Threading.Thread.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.ValueTuple.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Xml.XPath.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder 3\CalculatorApp\bin\roslyn\vbc.exe
+D:\New folder 3\CalculatorApp\bin\roslyn\vbc.exe.config
+D:\New folder 3\CalculatorApp\bin\roslyn\vbc.rsp
+D:\New folder 3\CalculatorApp\bin\roslyn\VBCSCompiler.exe
+D:\New folder 3\CalculatorApp\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder 3\CalculatorApp\bin\CalculatorApp.dll.CodeAnalysisLog.xml
+D:\New folder 3\CalculatorApp\bin\CalculatorApp.dll.lastcodeanalysissucceeded
+D:\New folder 3\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder 3\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.Helpers.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.Mvc.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.Razor.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.Deployment.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.Razor.dll
+D:\New folder 3\CalculatorApp\bin\WebDriver.dll
+D:\New folder 3\CalculatorApp\bin\WebDriver.Support.dll
+D:\New folder 3\CalculatorApp\bin\xunit.abstractions.dll
+D:\New folder 3\CalculatorApp\bin\xunit.assert.dll
+D:\New folder 3\CalculatorApp\bin\xunit.core.dll
+D:\New folder 3\CalculatorApp\bin\xunit.execution.desktop.dll
+D:\New folder 3\CalculatorApp\bin\System.Web.Helpers.xml
+D:\New folder 3\CalculatorApp\bin\System.Web.Mvc.xml
+D:\New folder 3\CalculatorApp\bin\System.Web.Razor.xml
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.xml
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.Deployment.xml
+D:\New folder 3\CalculatorApp\bin\System.Web.WebPages.Razor.xml
+D:\New folder 3\CalculatorApp\bin\WebDriver.xml
+D:\New folder 3\CalculatorApp\bin\WebDriver.Support.xml
+D:\New folder 3\CalculatorApp\bin\xunit.abstractions.xml
+D:\New folder 3\CalculatorApp\bin\xunit.assert.xml
+D:\New folder 3\CalculatorApp\bin\xunit.core.xml
+D:\New folder 3\CalculatorApp\bin\xunit.execution.desktop.xml
+D:\New folder 3\CalculatorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder 3\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache
+D:\New folder 3\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\New folder 3\CalculatorApp\obj\Release\CalculatorApp.csproj.CopyComplete
+D:\New folder 3\CalculatorApp\obj\Release\CalculatorApp.dll
+D:\New folder 3\CalculatorApp\obj\Release\CalculatorApp.pdb
